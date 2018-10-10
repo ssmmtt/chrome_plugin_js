@@ -6,7 +6,6 @@
 // @author       jayce
 // @include      http://localhost:6901/*
 // @include      http://127.0.0.1:6901/*
-// @grant        none
 // ==/UserScript==
 
 
